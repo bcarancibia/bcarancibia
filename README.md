@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bcarancibia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hello there 👋
+
+Director of Data Science by day at GSK and sports analytics by night
+- I’m interested in open source, sports analytics, and reading books
+- blog website TBD
 
 <!---
 bcarancibia/bcarancibia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
